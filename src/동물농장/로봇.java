@@ -1,0 +1,7 @@
+package 동물농장;
+public class 로봇 implements Moveable {
+
+    public void 움직이기(){
+    }
+
+}
