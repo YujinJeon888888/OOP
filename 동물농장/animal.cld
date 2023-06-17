@@ -427,7 +427,6 @@
                                   <params/>
                                   <isAbstract>false</isAbstract>
                                   <isStatic>false</isStatic>
-                                  <isFinal>false</isFinal>
                                 </net.java.amateras.uml.classdiagram.model.OperationModel>
                               </children>
                               <filterProperty/>
@@ -696,7 +695,6 @@
                                   <params/>
                                   <isAbstract>false</isAbstract>
                                   <isStatic>false</isStatic>
-                                  <isFinal>false</isFinal>
                                 </net.java.amateras.uml.classdiagram.model.OperationModel>
                                 <net.java.amateras.uml.classdiagram.model.OperationModel>
                                   <backgroundColor reference="../../../../../backgroundColor"/>
@@ -718,7 +716,6 @@
                                   <params/>
                                   <isAbstract>false</isAbstract>
                                   <isStatic>false</isStatic>
-                                  <isFinal>false</isFinal>
                                 </net.java.amateras.uml.classdiagram.model.OperationModel>
                               </children>
                               <filterProperty/>
@@ -804,7 +801,6 @@
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                         </children>
                         <filterProperty/>
@@ -1087,7 +1083,6 @@
                       <params/>
                       <isAbstract>false</isAbstract>
                       <isStatic>false</isStatic>
-                      <isFinal>false</isFinal>
                     </net.java.amateras.uml.classdiagram.model.OperationModel>
                   </children>
                   <filterProperty/>
@@ -1390,8 +1385,6 @@
                             <name>날개</name>
                             <type>int</type>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
-                            <isEnumCst>false</isEnumCst>
                           </net.java.amateras.uml.classdiagram.model.AttributeModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../../backgroundColor"/>
@@ -1413,7 +1406,6 @@
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../../backgroundColor"/>
@@ -1444,7 +1436,6 @@
                             </params>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../../backgroundColor"/>
@@ -1466,7 +1457,6 @@
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../../backgroundColor"/>
@@ -1488,7 +1478,6 @@
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../../backgroundColor"/>
@@ -1510,7 +1499,6 @@
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                         </children>
                         <filterProperty/>
@@ -1752,7 +1740,6 @@
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                         </children>
                         <filterProperty/>
@@ -1950,8 +1937,6 @@
                             <name>주민번호</name>
                             <type>String</type>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
-                            <isEnumCst>false</isEnumCst>
                           </net.java.amateras.uml.classdiagram.model.AttributeModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../backgroundColor"/>
@@ -1973,7 +1958,6 @@
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../backgroundColor"/>
@@ -2000,7 +1984,6 @@
                             </params>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../backgroundColor"/>
@@ -2022,7 +2005,6 @@
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                         </children>
                         <filterProperty/>
@@ -2207,7 +2189,6 @@
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                         </children>
                         <filterProperty/>
@@ -2520,8 +2501,6 @@
                                         <name>숨겨둔간식</name>
                                         <type>String</type>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
-                                        <isEnumCst>false</isEnumCst>
                                       </net.java.amateras.uml.classdiagram.model.AttributeModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2543,7 +2522,6 @@
                                         <params/>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2570,7 +2548,6 @@
                                         </params>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2592,7 +2569,6 @@
                                         <params/>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2619,7 +2595,6 @@
                                         </params>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2641,7 +2616,6 @@
                                         <params/>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2663,7 +2637,6 @@
                                         <params/>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2685,7 +2658,6 @@
                                         <params/>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2707,7 +2679,6 @@
                                         <params/>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2729,7 +2700,6 @@
                                         <params/>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2751,7 +2721,6 @@
                                         <params/>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                       <net.java.amateras.uml.classdiagram.model.OperationModel>
                                         <backgroundColor reference="../../../backgroundColor"/>
@@ -2773,7 +2742,6 @@
                                         <params/>
                                         <isAbstract>false</isAbstract>
                                         <isStatic>false</isStatic>
-                                        <isFinal>false</isFinal>
                                       </net.java.amateras.uml.classdiagram.model.OperationModel>
                                     </children>
                                     <filterProperty/>
@@ -2858,7 +2826,6 @@
                                   <params/>
                                   <isAbstract>false</isAbstract>
                                   <isStatic>false</isStatic>
-                                  <isFinal>false</isFinal>
                                 </net.java.amateras.uml.classdiagram.model.OperationModel>
                               </children>
                               <filterProperty/>
@@ -2972,8 +2939,6 @@ getter, setter, 기능도 추가함&#xd;
                             <name>숨겨둔간식</name>
                             <type>String</type>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
-                            <isEnumCst>false</isEnumCst>
                           </net.java.amateras.uml.classdiagram.model.AttributeModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -2995,7 +2960,6 @@ getter, setter, 기능도 추가함&#xd;
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -3022,7 +2986,6 @@ getter, setter, 기능도 추가함&#xd;
                             </params>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -3044,7 +3007,6 @@ getter, setter, 기능도 추가함&#xd;
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -3071,7 +3033,6 @@ getter, setter, 기능도 추가함&#xd;
                             </params>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -3093,7 +3054,6 @@ getter, setter, 기능도 추가함&#xd;
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -3115,7 +3075,6 @@ getter, setter, 기능도 추가함&#xd;
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -3137,7 +3096,6 @@ getter, setter, 기능도 추가함&#xd;
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -3159,7 +3117,6 @@ getter, setter, 기능도 추가함&#xd;
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -3181,7 +3138,6 @@ getter, setter, 기능도 추가함&#xd;
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -3203,7 +3159,6 @@ getter, setter, 기능도 추가함&#xd;
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                           <net.java.amateras.uml.classdiagram.model.OperationModel>
                             <backgroundColor reference="../../../../../backgroundColor"/>
@@ -3225,7 +3180,6 @@ getter, setter, 기능도 추가함&#xd;
                             <params/>
                             <isAbstract>false</isAbstract>
                             <isStatic>false</isStatic>
-                            <isFinal>false</isFinal>
                           </net.java.amateras.uml.classdiagram.model.OperationModel>
                         </children>
                         <filterProperty/>
@@ -3311,7 +3265,6 @@ getter, setter, 기능도 추가함&#xd;
                       <params/>
                       <isAbstract>false</isAbstract>
                       <isStatic>false</isStatic>
-                      <isFinal>false</isFinal>
                     </net.java.amateras.uml.classdiagram.model.OperationModel>
                     <net.java.amateras.uml.classdiagram.model.OperationModel>
                       <backgroundColor reference="../../../backgroundColor"/>
@@ -3338,7 +3291,6 @@ getter, setter, 기능도 추가함&#xd;
                       </params>
                       <isAbstract>false</isAbstract>
                       <isStatic>false</isStatic>
-                      <isFinal>false</isFinal>
                     </net.java.amateras.uml.classdiagram.model.OperationModel>
                     <net.java.amateras.uml.classdiagram.model.OperationModel>
                       <backgroundColor reference="../../../backgroundColor"/>
@@ -3360,7 +3312,6 @@ getter, setter, 기능도 추가함&#xd;
                       <params/>
                       <isAbstract>false</isAbstract>
                       <isStatic>false</isStatic>
-                      <isFinal>false</isFinal>
                     </net.java.amateras.uml.classdiagram.model.OperationModel>
                     <net.java.amateras.uml.classdiagram.model.OperationModel>
                       <backgroundColor reference="../../../backgroundColor"/>
@@ -3382,7 +3333,6 @@ getter, setter, 기능도 추가함&#xd;
                       <params/>
                       <isAbstract>false</isAbstract>
                       <isStatic>false</isStatic>
-                      <isFinal>false</isFinal>
                     </net.java.amateras.uml.classdiagram.model.OperationModel>
                     <net.java.amateras.uml.classdiagram.model.OperationModel>
                       <backgroundColor reference="../../../backgroundColor"/>
@@ -3404,7 +3354,6 @@ getter, setter, 기능도 추가함&#xd;
                       <params/>
                       <isAbstract>false</isAbstract>
                       <isStatic>false</isStatic>
-                      <isFinal>false</isFinal>
                     </net.java.amateras.uml.classdiagram.model.OperationModel>
                     <net.java.amateras.uml.classdiagram.model.OperationModel>
                       <backgroundColor reference="../../../backgroundColor"/>
@@ -3426,7 +3375,6 @@ getter, setter, 기능도 추가함&#xd;
                       <params/>
                       <isAbstract>false</isAbstract>
                       <isStatic>false</isStatic>
-                      <isFinal>false</isFinal>
                     </net.java.amateras.uml.classdiagram.model.OperationModel>
                     <net.java.amateras.uml.classdiagram.model.OperationModel>
                       <backgroundColor reference="../../../backgroundColor"/>
@@ -3448,7 +3396,6 @@ getter, setter, 기능도 추가함&#xd;
                       <params/>
                       <isAbstract>false</isAbstract>
                       <isStatic>false</isStatic>
-                      <isFinal>false</isFinal>
                     </net.java.amateras.uml.classdiagram.model.OperationModel>
                     <net.java.amateras.uml.classdiagram.model.OperationModel>
                       <backgroundColor reference="../../../backgroundColor"/>
@@ -3470,7 +3417,6 @@ getter, setter, 기능도 추가함&#xd;
                       <params/>
                       <isAbstract>false</isAbstract>
                       <isStatic>false</isStatic>
-                      <isFinal>false</isFinal>
                     </net.java.amateras.uml.classdiagram.model.OperationModel>
                     <net.java.amateras.uml.classdiagram.model.OperationModel>
                       <backgroundColor reference="../../../backgroundColor"/>
@@ -3492,7 +3438,6 @@ getter, setter, 기능도 추가함&#xd;
                       <params/>
                       <isAbstract>false</isAbstract>
                       <isStatic>false</isStatic>
-                      <isFinal>false</isFinal>
                     </net.java.amateras.uml.classdiagram.model.OperationModel>
                   </children>
                   <filterProperty/>
@@ -3700,7 +3645,6 @@ getter, setter, 기능도 추가함&#xd;
                 <params/>
                 <isAbstract>false</isAbstract>
                 <isStatic>false</isStatic>
-                <isFinal>false</isFinal>
               </net.java.amateras.uml.classdiagram.model.OperationModel>
             </children>
             <filterProperty/>
@@ -3827,8 +3771,6 @@ getter, setter, 기능도 추가함&#xd;
           <name>이름</name>
           <type>String</type>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
-          <isEnumCst>false</isEnumCst>
         </net.java.amateras.uml.classdiagram.model.AttributeModel>
         <net.java.amateras.uml.classdiagram.model.AttributeModel>
           <backgroundColor reference="../../../backgroundColor"/>
@@ -3848,8 +3790,6 @@ getter, setter, 기능도 추가함&#xd;
           <name>나이</name>
           <type>int</type>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
-          <isEnumCst>false</isEnumCst>
         </net.java.amateras.uml.classdiagram.model.AttributeModel>
         <net.java.amateras.uml.classdiagram.model.OperationModel>
           <backgroundColor reference="../../../backgroundColor"/>
@@ -3871,7 +3811,6 @@ getter, setter, 기능도 추가함&#xd;
           <params/>
           <isAbstract>false</isAbstract>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
         </net.java.amateras.uml.classdiagram.model.OperationModel>
         <net.java.amateras.uml.classdiagram.model.OperationModel>
           <backgroundColor reference="../../../backgroundColor"/>
@@ -3893,7 +3832,6 @@ getter, setter, 기능도 추가함&#xd;
           <params/>
           <isAbstract>false</isAbstract>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
         </net.java.amateras.uml.classdiagram.model.OperationModel>
         <net.java.amateras.uml.classdiagram.model.OperationModel>
           <backgroundColor reference="../../../backgroundColor"/>
@@ -3920,7 +3858,6 @@ getter, setter, 기능도 추가함&#xd;
           </params>
           <isAbstract>false</isAbstract>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
         </net.java.amateras.uml.classdiagram.model.OperationModel>
         <net.java.amateras.uml.classdiagram.model.OperationModel>
           <backgroundColor reference="../../../backgroundColor"/>
@@ -3942,7 +3879,6 @@ getter, setter, 기능도 추가함&#xd;
           <params/>
           <isAbstract>false</isAbstract>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
         </net.java.amateras.uml.classdiagram.model.OperationModel>
         <net.java.amateras.uml.classdiagram.model.AttributeModel>
           <backgroundColor reference="../../../backgroundColor"/>
@@ -3962,8 +3898,6 @@ getter, setter, 기능도 추가함&#xd;
           <name>다리개수</name>
           <type>int</type>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
-          <isEnumCst>false</isEnumCst>
         </net.java.amateras.uml.classdiagram.model.AttributeModel>
         <net.java.amateras.uml.classdiagram.model.OperationModel>
           <backgroundColor reference="../../../backgroundColor"/>
@@ -3985,7 +3919,6 @@ getter, setter, 기능도 추가함&#xd;
           <params/>
           <isAbstract>false</isAbstract>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
         </net.java.amateras.uml.classdiagram.model.OperationModel>
       </children>
       <filterProperty/>
